@@ -7,11 +7,20 @@
     font-size: 1rem;
 }
 
+body{
+    text-align: center;
+}
+
+h1{
+    margin-top: 2rem;
+    font-size: 2rem;
+    color: rgb(68, 68, 68);
+}
 
 #form{
     
     text-align: center;
-    margin-top: 4rem;
+    margin-top: 2rem;
     padding: 2% 2%;
     display: flex;
     flex-direction: row;
@@ -21,7 +30,8 @@
 }
 
 #input{
-    padding: 2% 2%;
+    padding: 2% 6%;
+    width: 13rem;
     border: none;
     outline: none;
     background-color: rgb(207, 207, 207);
