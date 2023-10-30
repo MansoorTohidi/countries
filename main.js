@@ -174,7 +174,7 @@ function doFilter(titlee) {
   })
 
   if(filtered.length == 0) {
-    console.log("chizi peydanashod");
+    console.log("no thing");
     filteredFoods(foods);
   } else {
     if(filtered.length == 1){
