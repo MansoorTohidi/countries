@@ -9,7 +9,7 @@
 
 
 #form{
-    border: 2px solid black;
+    
     text-align: center;
     margin-top: 4rem;
     padding: 2% 2%;
@@ -51,7 +51,7 @@ button:hover{
 #cards{
     display: grid;
     grid-template-columns: repeat(4,140px);
-    border: 2px solid black;
+  
     place-content: center;
     gap: 1rem;
     padding: 2% 2%; 
