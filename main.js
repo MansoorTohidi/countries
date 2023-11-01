@@ -57,8 +57,8 @@ console.log(cardsNode);
 const foods = [
   {
     id: 1,
-    title: "gentina",
-    img: `photo/argentina.jpeg`,
+    title: "Argentina",
+    img: `photo/gentina.jpeg`,
     description: `Argentina is a vast country located in the southern part of South America. The eighth largest country in the world, it is the second largest country in South America after Brazil, and it's about one-third the size of the United States. Argentina
      is bordered by the Andes Mountains and Chile to the west.`,
   },
